@@ -1,0 +1,7 @@
+*.DS_Store
+LiveArt_Unity/Library
+LiveArt_Unity/UserSettings
+LiveArt_Unity/Logs
+LiveArt_Unity/Temp
+LiveArt_Unity/build.apk
+LiveArt_Unity/build_BackUpThisFolder_ButDontShipItWithYourGame
